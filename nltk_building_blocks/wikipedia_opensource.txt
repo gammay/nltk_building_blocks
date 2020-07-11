@@ -1,0 +1,183 @@
+Open source
+From Wikipedia, the free encyclopedia
+Jump to navigation Jump to search
+For other uses, see Open source (disambiguation).
+Open source products include permission to use the source code,[1] design documents,[2] or content of the product. It most commonly refers to the open-source model, in which open-source software or other products are released under an open-source license as part of the open-source-software movement. Use of the term originated with software, but has expanded beyond the software sector to cover other open content and forms of open collaboration.
+
+Other than the PC market (70%-88% Windows[3][4]), open-source user share can be found in many area of computing, including mobile devices (which surpass personal computing with 2.5 billion Linux-based Android devices),[5] public servers on the internet (98.1% of the top 1 million web servers' operating systems),[6] and supercomputers (100% of the world's top 500 fastest supercomputers use Linux as their supercomputer operating system).[7]
+
+Origins[]
+The term "open source", as used to describe software, was first proposed by a group of people in the free software movement who were critical of the political agenda and moral philosophy implied in the term "free software" and sought to reframe the discourse to reflect a more commercially minded position.[8] In addition, the ambiguity of the term "free software" was seen as discouraging business adoption.[9][10] The group included Christine Peterson, Todd Anderson, Larry Augustin, Jon Hall, Sam Ockman, Michael Tiemann and Eric S. Raymond. Peterson suggested "open source" at a meeting[11] held at Palo Alto, California, in reaction to Netscape's announcement in January 1998 of a source code release for Navigator. Linus Torvalds gave his support the following day, and Phil Hughes backed the term in Linux Journal. Richard Stallman, the founder of the free software movement, initially seemed to adopt the term, but later changed his mind.[11][12] Netscape released its source code under the Netscape Public License and later under the Mozilla Public License.[13]
+
+Raymond was especially active in the effort to popularize the new term. He made the first public call to the free software community to adopt it in February 1998.[14] Shortly after, he founded The Open Source Initiative in collaboration with Bruce Perens.[11]
+
+The term gained further visibility through an event organized in April 1998 by technology publisher Tim O'Reilly. Originally titled the "Freeware Summit" and later known as the "Open Source Summit",[15] the event was attended by the leaders of many of the most important free and open-source projects, including Linus Torvalds, Larry Wall, Brian Behlendorf, Eric Allman, Guido van Rossum, Michael Tiemann, Paul Vixie, Jamie Zawinski, and Eric Raymond. At that meeting, alternatives to the term "free software" were discussed. Tiemann argued for "sourceware" as a new term, while Raymond argued for "open source". The assembled developers took a vote, and the winner was announced at a press conference the same evening.[15]
+
+Many large formal institutions have sprung up to support the development of the open-source software movement, including the Apache Software Foundation, which supports community projects such as the open-source framework Apache Hadoop and the open-source HTTP server Apache HTTP.
+
+The open-source model and open collaboration[]
+The open-source model is a decentralized software development model that encourages open collaboration,[16][17] meaning "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike."[16] A main principle of open-source software development is peer production, with products such as source code, blueprints, and documentation freely available to the public. The open-source movement in software began as a response to the limitations of proprietary code. The model is used for projects such as in open-source appropriate technology,[18] and open-source drug discovery.[19][20]
+
+The open source model for software development inspired the use of the term to refer to other forms of open collaboration, such as in Internet forums,[21] mailing lists[22] and online communities.[23] Open collaboration is also thought to be the operating principle underlining a gamut of diverse ventures, including bitcoin, TEDx, and Wikipedia.[24]
+
+Open collaboration is the principle underlying peer production, mass collaboration, and wikinomics.[16] It was observed initially in open source software, but can also be found in many other instances, such as in Internet forums,[21] mailing lists,[22] Internet communities,[23] and many instances of open content, such as creative commons. It also explains some instances of crowdsourcing, collaborative consumption, and open innovation.[25]
+
+Riehle et al. define open collaboration as collaboration based on three principles of egalitarianism, meritocracy, and self-organization.[26] Levine and Prietula define open collaboration as "any system of innovation or production that relies on goal-oriented yet loosely coordinated participants who interact to create a product (or service) of economic value, which they make available to contributors and noncontributors alike." [16] This definition captures multiple instances, all joined by similar principles. For example, all of the elements — goods of economic value, open access to contribute and consume, interaction and exchange, purposeful yet loosely coordinated work — are present in an open source software project, in Wikipedia, or in a user forum or community. They can also be present in a commercial website that is based on user-generated content. In all of these instances of open collaboration, anyone can contribute and anyone can freely partake in the fruits of sharing, which are produced by interacting participants who are loosely coordinated.
+
+An annual conference dedicated to the research and practice of open collaboration is the International Symposium on Wikis and Open Collaboration (OpenSym, formerly WikiSym).[27] As per its website, the group defines open collaboration as "collaboration that is egalitarian (everyone can join, no principled or artificial barriers to participation exist), meritocratic (decisions and status are merit-based rather than imposed) and self-organizing (processes adapt to people rather than people adapt to pre-defined processes)."[28]
+
+Open-source license[]
+Main article: Open-source license
+Open source promotes universal access via an open-source or free license to a product's design or blueprint, and universal redistribution of that design or blueprint.[29][30] Before the phrase open source became widely adopted, developers and producers used a variety of other terms. Open source gained hold with the rise of the Internet.[31] The open-source software movement arose to clarify copyright, licensing, domain, and consumer issues.
+
+An open-source license is a type of license for computer software and other products that allows the source code, blueprint or design to be used, modified or shared (with or without modification) under defined terms and conditions.[32][33] This allows end users and commercial companies to review and modify the source code, blueprint or design for their own customization, curiosity or troubleshooting needs. Open-source licensed software is mostly available free of charge, though this does not necessarily have to be the case. Licenses which only permit non-commercial redistribution or modification of the source code for personal use only are generally not considered as open-source licenses. However, open-source licenses may have some restrictions, particularly regarding the expression of respect to the origin of software, such as a requirement to preserve the name of the authors and a copyright statement within the code, or a requirement to redistribute the licensed software only under the same license (as in a copyleft license). One popular set of open-source software licenses are those approved by the Open Source Initiative (OSI) based on their Open Source Definition (OSD).
+
+Open-source software code[]
+Main article: Open-source software
+Generally, open source refers to a computer program in which the source code is available to the general public for use for any (including commercial) purpose, or modification from its original design. Open-source code is meant to be a collaborative effort, where programmers improve upon the source code and share the changes within the community. Code is released under the terms of a software license. Depending on the license terms, others may then download, modify, and publish their version (fork) back to the community.
+
+"Open" versus "free" versus "free and open"[]
+Free and open-source software (FOSS) or Free/libre and open-source software (FLOSS) is openly shared source code that is licensed without any restrictions on usage, modification, or distribution.[citation needed] Confusion persists about this completely unrestricted definition because the "Free", also known as "Libre", refers to the freedom or the product not the price, expense, cost, or charge. For example, "being free to speak" is not the same as "free beer".[12]
+
+Conversely, Richard Stallman argues the obvious meaning of term "open source" is that the source code is public/accessible for inspection, without necessarily any other rights granted, although the proponents of the term say the conditions in the Open Source Definition must be fulfilled.[34]
+
+"Free and open" should not be confused with public ownership (state ownership), deprivatization (nationalization), anti-privatization (anti-corporate activism), or transparent behavior.[citation needed]
+
+Software[]
+List of free and open-source software packages
+Agriculture, economy, manufacturing and production[]
+Open-source appropriate technology (OSAT), is designed for environmental, ethical, cultural, social, political, economic, and community aspects
+Open-design movement, development of physical products, machines and systems via publicly shared design information, including free and open-source software and open-source hardware, among many others:
+Open Architecture Network, improving global living conditions through innovative sustainable design
+OpenCores, a community developing digital electronic open-source hardware
+Open Design Alliance, develops Teigha, a software development platform to create engineering applications including CAD software
+Open Hardware and Design Alliance (OHANDA), sharing open hardware and designs via free online services
+Open Source Ecology (OSE), a network of farmers, engineers, architects and supporters striving to manufacture the Global Village Construction Set (GVCS)
+OpenStructures (OSP), a modular construction model where everyone designs on the basis of one shared geometrical OS grid
+Open manufacturing or "Open Production" or "Design Global, Manufacture Local", a new socioeconomic production model to openly and collaboratively produce and distribute physical objects
+Open-source architecture (OSArc), emerging procedures in imagination and formation of virtual and real spaces within an inclusive universal infrastructure
+Open-source cola, cola soft drinks made to open-sourced recipes
+Open-source hardware, or open hardware, computer hardware, such as microprocessors, that is designed in the same fashion as open source software
+List of open-source hardware projects
+Open-source product development (OSPD), collaborative product and process openness of open-source hardware for any interested participants
+Open-source robotics, physical artifacts of the subject are offered by the open design movement
+Open Source Seed Initiative, open source varieties of crop seeds, as an alternative to patent-protected seeds sold by large agriculture companies.
+Science and medicine[]
+Open science, the movement to make scientific research, data and dissemination accessible to all levels of an inquiring society, amateur or professional
+Open science data, a type of open data focused on publishing observations and results of scientific activities available for anyone to analyze and reuse
+Open Science Framework and the Center for Open Science
+Open Source Lab (disambiguation), several laboratories
+Open-Source Lab (book), a 2014 book by Joshua M. Pearce
+See also: The antithesis of open science is Scientism, a blind faith in profit driven proprietary (closed) science and marketing (ie. proprietary software, proprietary protocols, fields of private biomedical engineering, biological patents, chemical patents (drugs), minimal sufficiency of disclosure, etc.).
+Open-notebook science, the practice of making the entire primary record of a research project publicly available online as it is recorded
+Open Source Physics (OSP), a National Science Foundation and Davidson College project to spread the use of open source code libraries that take care of a lot of the heavy lifting for physics
+Open Source Geospatial Foundation
+NASA Open Source Agreement (NOSA), an OSI-approved software license
+List of open-source software for mathematics
+List of open-source bioinformatics software
+List of open-source health software
+List of open-source health hardware
+Media[]
+Open-source film, open source movies
+List of open-source films
+Open Source Cinema, a collaborative website to produce a documentary film
+Open-source journalism, commonly describes a spectrum on online publications, forms of innovative publishing of online journalism, and content voting, rather than the sourcing of news stories by "professional" journalists
+Open-source investigation
+See also: Crowdsourcing, crowdsourced journalism, crowdsourced investigation, trutherism, and historical revisionism considered "fringe" by corporate media.
+Open-source record label, open source music
+"Open Source", a 1960s rock song performed by The Magic Mushrooms
+Open Source (radio show), a radio show using open content information gathering methods hosted by Christopher Lydon
+Open textbook, an open copyright licensed textbook made freely available online for students, teachers, and the public
+The Open-Source Everything Manifesto: Transparency, Truth, and Trust, a 2012 book by former Marine officer and ex-CIA secret operative Robert David Steele
+Organizations[]
+Procedures[]
+Open security, application of open source philosophies to computer security
+Open Source Information System, the former name of an American unclassified network serving the U.S. intelligence community with open source intelligence, since mid-2006 the content of OSIS is now known as Intelink-U while the network portion is known as DNI-U
+Open-source intelligence, an intelligence gathering discipline based on information collected from open sources
+Not to be confused with Open-source artificial intelligence such as Mycroft (software).
+Society[]
+Open-source curriculum (OSC), an online instructional resource that can be freely used, distributed and modified while inviting feedback and participation from developers, educators, government officials, students and parents
+Open-source governance, open source in government
+Open politics (sometimes known as Open-source politics), a political process that uses Internet technologies to provide a rapid feedback mechanism between political organizations and their supporters
+See also: Parliamentary informatics and Civic technology.
+Open-source religion in the creation of belief systems
+Open-source unionism, an innovative model for labor union organization
+References[]
+^ "The Open Source Definition". Open Source Org. 7 July 2006. Archived from the original (html) on 11 June 2007. Retrieved 22 January 2020. Open source doesn't just mean access to the source code.
+^ "What is Open Source Software". Diffingo Solutions Inc. Archived from the original (html) on 28 October 2008. Retrieved 22 January 2020. Open source software differers from other software because it has a less restrictive license agreement: Instead of using a restrictive license that prevents you from modifying the program or sharing it with friends for example, sharing and modifying open source software is encouraged. Anyone who wishes to do so may distribute, modify or even create derivative works based on that source code!
+^ "Market Share Statistics". Statista. Retrieved 16 April 2020.
+^ "Operating System Market Share". NetMarketShare. NetApplications. Retrieved 24 September 2019. Note: Use options for the date range and device for URIs such as: https://netmarketshare.com/operating-system-market-share.aspx?options=%7B"filter"%3A%7B"%24and"%3A%5B%7B"deviceType"%3A%7B"%24in"%3A%5B"Desktop%2Flaptop"%5D%7D%7D%5D%7D%2C"dateLabel"%3A"Custom"%2C"attributes"%3A"share"%2C"group"%3A"platform"%2C"sort"%3A%7B"share"%3A-1%7D%2C"id"%3A"platformsDesktop"%2C"dateInterval"%3A"Monthly"%2C"dateStart"%3A"2019-01"%2C"dateEnd"%3A"2019-08"%2C"segments"%3A"-1000"%7D
+^ "Desktop vs Mobile vs Tablet vs Console Market Share Worldwide". StatCounter Global Stats. Retrieved 1 July 2019.
+^ "OS Market Share and Usage Trends". W3Cook.com. Archived from the original on 6 August 2015.
+^ "Operating system Family - Systems share". Top 500 project.
+^ O'Mahony, Siobhan Clare (2002). "The emergence of a new commercial actor: Community managed software projects". Stanford, CA: Stanford University: 34–42.
+^ Eric S. Raymond. "Goodbye, "free software"; hello, "open source"". The problem with it is twofold. First, ... the term "free" is very ambiguous ... Second, the term makes a lot of corporate types nervous.
+^ Shea, Tom (23 June 1983). "Free software - Free software is a junkyard of software spare parts". InfoWorld. Retrieved 10 February 2016. "In contrast to commercial software is a large and growing body of free software that exists in the public domain. Public-domain software is written by microcomputer hobbyists (also known as "hackers") many of whom are professional programmers in their work life. [...] Since everybody has access to source code, many routines have not only been used but dramatically improved by other programmers."
+^ a b c Tiemann, Michael (19 September 2006). "History of the OSI". Open Source Initiative. Archived from the original on 1 October 2002. Retrieved 23 August 2008.
+^ a b "Why Open Source misses the point of Free Software". fsf.org. 18 May 2012. Retrieved 14 November 2012.
+^ Muffatto, Moreno (2006). Open Source: A Multidisciplinary Approach. Imperial College Press. ISBN 978-1-86094-665-3.
+^ "Goodbye, "free software"; hello, "open source"". Catb.org. Retrieved 25 October 2012.
+^ a b van Rossum, Guido (10 April 1998). "Open Source Summit". Linux Gazette. Archived from the original on 29 December 2013. Retrieved 7 February 2015.
+^ a b c d Levine, Sheen S., & Prietula, M. J. (2013). Open Collaboration for Innovation: Principles and Performance. Organization Science, doi:10.1287/orsc.2013.0872
+^ Raymond, Eric S. (2001). The cathedral and the bazaar: musings on Linux and Open Source by an accidental revolutionary. OReilly. ISBN 978-0-596-00108-7.[page needed]
+^ Pearce, Joshua M (2012). "The Case for Open Source Appropriate Technology". Environment, Development and Sustainability. 14 (3): 425–431. doi:10.1007/s10668-012-9337-9.
+^ "Science 2.0 is here as CSIR resorts to open-source drug research for TB" Business Standard, 1 March 2009
+^ "Open Source Drug Discovery for Malaria Consortium
+^ a b Lakhani, Karim R., & von Hippel, Eric (2003). How Open Source Software Works: Free User to User Assistance. Research Policy, 32, 923–943 doi:10.2139/ssrn.290305
+^ a b Jarvenpaa, S. L., & Majchrzak, Ann (2008). Knowledge Collaboration Among Professionals Protecting National Security: Role of Transactive Memories in Ego-Centered Knowledge Networks. Organization Science, 19(2), 260-276 doi:10.1287/orsc.1070.0315
+^ a b Faraj, S., Jarvenpaa, S. L., & Majchrzak, Ann (2011). Knowledge Collaboration in Online Communities. Organization Science, 22(5), 1224-1239, doi:10.1287/orsc.1100.0614
+^ "Open collaboration leading to novel organizations - KurzweilAI".
+^ Levine, Sheen S.; Michael J. Prietula (30 December 2013). "Open Collaboration for Innovation: Principles and Performance". Organization Science. 25 (5): 1414–1433. arXiv:1406.7541. doi:10.1287/orsc.2013.0872. ISSN 1047-7039.
+^ Riehle, D.; Ellenberger, J.; Menahem, T.; Mikhailovski, B.; Natchetoi, Y.; Naveh, B.; Odenwald, T. (March 2009). "Open Collaboration within Corporations Using Software Forges" (PDF). IEEE Software. 26 (2): 52–58. doi:10.1109/MS.2009.44. ISSN 0740-7459. Archived from the original (PDF) on 8 October 2016. Retrieved 22 November 2018.
+^ "About". The International Symposium on Open Collaboration. 15 June 2010.
+^ Dirk Riehle. "Definition of Open Collaboration". The Joint International Symposium on Open Collaboration. Archived from the original on 12 March 2013. Retrieved 26 March 2013. Open collaboration is collaboration that is egalitarian (everyone can join, no principled or artificial barriers to participation exist), meritocratic (decisions and status are merit-based rather than imposed) and self-organizing (processes adapt to people rather than people adapt to pre-defined processes).
+^ Lakhani, K.R.; von Hippel, E. (June 2003). "How Open Source Software Works: Free User to User Assistance". Research Policy. 32 (6): 923–943. doi:10.1016/S0048-7333(02)00095-1. hdl:1721.1/70028.
+^ Gerber, A.; Molefo, O.; Van der Merwe, A. (2010). "Documenting open-source migration processes for re-use". In Kotze, P.; Gerber, A.; van der Merwe, A.; et al. (eds.). Proceedings of the SAICSIT 2010 Conference — Fountains of Computing Research. ACM Press. pp. 75–85. CiteSeerX 10.1.1.1033.7791. doi:10.1145/1899503.1899512. ISBN 978-1-60558-950-3.
+^ Weber 2004[page needed]
+^ "Brief Definition of Open Source Licenses". Open Source Initiative. Retrieved 25 April 2013.
+^ Popp, Dr. Karl Michael (2015). Best Practices for commercial use of open source software. Norderstedt, Germany: Books on Demand. ISBN 978-3738619096.
+^ Richard Stallman. "Why Open Source misses the point of Free Software". gnu.org. Retrieved 17 February 2019. However, the obvious meaning for the expression “open source software”—and the one most people seem to think it means—is “You can look at the source code.” [...] the obvious meaning for “open source” is not the meaning that its advocates intend [...]
+See also[]
+Open sourceat Wikipedia's sister projects
+Access to Knowledge movement (A2K)
+Cooperative
+Crowdsourcing
+Decentralization
+Decentralized computing and Decentralized web
+Free Beer, originally Vores øl, and open source beer
+Free content, or Libre knowledge
+Free-culture movement
+Free Knowledge Foundation
+Free software movement (FSM) or (FOSSM) or (FLOSS)
+Freedom of contract
+GNU
+Gratis versus libre (no cost vs no restriction)
+Mass collaboration
+OpenBTS (Open Base Transceiver Station), a software-based GSM access point, allowing standard GSM-compatible mobile phones to be used as SIP endpoints in Voice over IP (VoIP) networks
+Open catalogue
+Open collaboration
+Open Compute Project
+Open content, open license, and open content license
+Open data
+Open Data Institute
+Open education
+Open educational resources
+Open format
+Open Knowledge International
+Open license, aka Open copyright license
+Open publishing
+Open research
+Open standard (open standardization), a publicly available standard with various associated usage rights and may have design process properties, though no single definition exists so interpretations vary with usage
+Paywall
+Peer-to-peer (P2P)
+Radical transparency
+Scientific method and Scientism
+Sharing economy
+Types of sharing
+Social collaboration
+Solidarity economy
+Tactical Technology Collective
+Transparency (behavior)
+Voluntary association
+Voluntaryism or Agorism
+
